@@ -29,6 +29,9 @@
 </ol>
 
 <h2>Video Demo</h2>
+<a href="https://github.com/cdCkhang/AutoHub/blob/main/assets/demo-autohub.gif" target="_blank">
+    <img src="https://github.com/cdCkhang/AutoHub/blob/main/assets/demo-autohub.gif" alt="Demo GIF" style="max-width: 100%; height: auto;">
+</a>
 
 
 <h2>Screenshots</h2>
@@ -37,30 +40,35 @@
     <h3>Login Form</h3>   
 </li>
 
-
+![image](https://github.com/cdCkhang/AutoHub/blob/main/assets/image_2024-10-17_103551522.jpg)
 
 <li>
     <h3>Customer Info</h3>
 </li>
 
 
+![image](https://github.com/cdCkhang/AutoHub/blob/main/assets/image_2024-10-17_103618391.jpg)
 
 <li>
     <h3>Transaction</h3>
 </li>
 
 
+![image](https://github.com/cdCkhang/AutoHub/blob/main/assets/image_2024-10-17_103631245.jpg)
 
 <li>
     <h3>Car Models</h3>
 </li>
 
 
+![image](https://github.com/cdCkhang/AutoHub/blob/main/assets/image_2024-10-17_103642436.jpg)
 
 <li>
     <h3>Manufactueres</h3>
 </li>
 
+
+![image](https://github.com/cdCkhang/AutoHub/blob/main/assets/image_2024-10-17_103654884.jpg)
 
 
 <li>
@@ -68,11 +76,14 @@
 </li>
 
 
+![image](https://github.com/cdCkhang/AutoHub/blob/main/assets/image_2024-10-17_103708521.jpg)
 
 <li>
     <h3>Statistics</h3>
 </li>
 
+
+![image](https://github.com/cdCkhang/AutoHub/blob/main/assets/image_2024-10-17_103720245.jpg)
 
 
 </ul>
