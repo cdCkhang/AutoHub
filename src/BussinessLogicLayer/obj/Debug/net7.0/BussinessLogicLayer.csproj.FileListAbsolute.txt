@@ -1,0 +1,121 @@
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\BussinessLogicLayer.deps.json
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\BussinessLogicLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\BussinessLogicLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.AssemblyInfo.cs
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.csproj.CopyComplete
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\refint\BussinessLogicLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\ref\BussinessLogicLayer.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\BussinessLogicLayer.deps.json
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\BussinessLogicLayer.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\BussinessLogicLayer.pdb
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\DataAccessLayer.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.csproj.AssemblyReference.cache
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.AssemblyInfoInputs.cache
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.AssemblyInfo.cs
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.csproj.CopyComplete
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\refint\BussinessLogicLayer.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.pdb
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\ref\BussinessLogicLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\BussinessLogicLayer.deps.json
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\BussinessLogicLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\BussinessLogicLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.AssemblyInfo.cs
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.csproj.CopyComplete
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\refint\BussinessLogicLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\ref\BussinessLogicLayer.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\BussinessLogicLayer.deps.json
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\BussinessLogicLayer.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\BussinessLogicLayer.pdb
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\DataAccessLayer.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.csproj.AssemblyReference.cache
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.AssemblyInfoInputs.cache
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.AssemblyInfo.cs
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.sourcelink.json
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.csproj.CopyComplete
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\refint\BussinessLogicLayer.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.pdb
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\ref\BussinessLogicLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\BussinessLogicLayer.deps.json
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\BussinessLogicLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\BussinessLogicLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.AssemblyInfo.cs
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.csproj.CopyComplete
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\refint\BussinessLogicLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\ref\BussinessLogicLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\BussinessLogicLayer.deps.json
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\BussinessLogicLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\BussinessLogicLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.AssemblyInfo.cs
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.csproj.CopyComplete
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\refint\BussinessLogicLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\ref\BussinessLogicLayer.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\BussinessLogicLayer.deps.json
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\BussinessLogicLayer.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\BussinessLogicLayer.pdb
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\BussinessLogicLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.csproj.AssemblyReference.cache
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.AssemblyInfoInputs.cache
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.AssemblyInfo.cs
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\Bussines.2EFEE8B4.Up2Date
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\refint\BussinessLogicLayer.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.pdb
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\BussinessLogicLayer\obj\Debug\net7.0\ref\BussinessLogicLayer.dll
+C:\Resource\ProjectNet\AutoHub\src\BussinessLogicLayer\bin\Debug\net7.0\BussinessLogicLayer.deps.json
+C:\Resource\ProjectNet\AutoHub\src\BussinessLogicLayer\bin\Debug\net7.0\BussinessLogicLayer.dll
+C:\Resource\ProjectNet\AutoHub\src\BussinessLogicLayer\bin\Debug\net7.0\BussinessLogicLayer.pdb
+C:\Resource\ProjectNet\AutoHub\src\BussinessLogicLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Resource\ProjectNet\AutoHub\src\BussinessLogicLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Resource\ProjectNet\AutoHub\src\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.csproj.AssemblyReference.cache
+C:\Resource\ProjectNet\AutoHub\src\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Resource\ProjectNet\AutoHub\src\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.AssemblyInfoInputs.cache
+C:\Resource\ProjectNet\AutoHub\src\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.AssemblyInfo.cs
+C:\Resource\ProjectNet\AutoHub\src\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Resource\ProjectNet\AutoHub\src\BussinessLogicLayer\obj\Debug\net7.0\Bussines.2EFEE8B4.Up2Date
+C:\Resource\ProjectNet\AutoHub\src\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.dll
+C:\Resource\ProjectNet\AutoHub\src\BussinessLogicLayer\obj\Debug\net7.0\refint\BussinessLogicLayer.dll
+C:\Resource\ProjectNet\AutoHub\src\BussinessLogicLayer\obj\Debug\net7.0\BussinessLogicLayer.pdb
+C:\Resource\ProjectNet\AutoHub\src\BussinessLogicLayer\obj\Debug\net7.0\ref\BussinessLogicLayer.dll

@@ -1,0 +1,14 @@
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\bin\Debug\PROJECTCNDN.exe.config
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\bin\Debug\PROJECTCNDN.exe
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\bin\Debug\PROJECTCNDN.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\obj\Debug\PROJECTCNDN.Properties.Resources.resources
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\obj\Debug\PROJECTCNDN.exe
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\obj\Debug\PROJECTCNDN.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\bin\Debug\BLL.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\bin\Debug\BLL.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\obj\Debug\PROJECTCNDN.MAINUI.resources
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\obj\Debug\GUI.csproj.CopyComplete

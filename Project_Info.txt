@@ -1,0 +1,41 @@
+Giới thiệu sơ lược :
+
+Cấu trúc ứng dụng : Mô hình 3 lớp ( Three-Layer Model) 
+- DAL : Lớp dữ liệu ( thực hiện việc kết nối với CSDL, lấy dữ liệu và trả về thông qua gọi hàm, thực hiện việc thêm, chỉnh, xóa, tìm kiếm )
+- BLL : Lớp nghiệp vụ ( trung gian lớp UI và DAL gọi các hàm lớp DAL kiểm tra ràng buộc )
+- GUI : Lớp giao diện ( chứa các control trên form, mỗi control gọi hàm của lớp BLL tương ứng theo tác dụng của control đó.)
+
+
+Target Framework chung của Project : .NET7.0 ( dùng đc các package 7.x)
+Tên Package : Microsoft.EntityFrameWork.SqlServer ( ver 7.15 )
+
+File PROJECT_CNDN gồm :
+- Folder [ Project DataAccessLayer ] : Folder riêng biệt chứa project của lớp DAl ( Project type : Class library [.net7.0] )
+	+ Folder Entities :
+		_ Các object tổ chức theo class, với mỗi chức năng và thuộc tính riêng biệt tương ứng với các Table trong CSDL.
+		_ Giúp việc quản lý các đối tượng dễ dàng hơn => Chỉnh sửa file trực quan.
+	+ DataAccess : Thực hiện việc kết nối CSDL.
+	+ GetData : Lấy dữ liệu từ CSDL, làm cầu nối dữ liệu giữa nhập từ Control và CSDL.
+	+ Không thể gọi trực tiếp bởi GUI
+	
+- Folder [ Project BussinessLogicalLayer ] : Folder riêng biệt chứa project của lớp BLL ( Project type : Class library [.net7.0] )
+	+ Trung gian giữa DAL và GUI	
+	+ Có thể dùng các hàm từ lớp DAL
+
+- Folder [ Project GUI ] : Lớp giao diện chương trình. ( Project type : Winform [.net7.0] )
+	+ Giao diện người dùng, chứa các control thao tác.
+	+ Folder con ChildForm : Chứa tất cả các form cần dùng trong phần mềm quản lý
+	+ Gồm :
+		_ Form Khách hàng : Chứa thông tin tất cả khách hàng, có thể thêm, sửa, xóa thông qua các nút và textbox
+		_ Form Xe , Nhân viên, Nhà sản xuất, Giao dịch : Tương tự như trên.	
+		_ Form Thống kê : Liệt kê các thông tin như trên Form ( Chỉ có thể xem + tìm kiếm )
+
+
+Trình tự thực thi của chương trình (phần mềm)  :
+
+		Check tài khoản, mk 			Tương tác menu
+[   Form Login  -------------------------> Form Main Menu -----------------> Form con hiển thị danh mục đã chọn	  ]
+
+
+	
+

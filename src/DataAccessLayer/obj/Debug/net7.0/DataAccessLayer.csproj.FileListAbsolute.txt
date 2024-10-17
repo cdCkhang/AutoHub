@@ -1,0 +1,97 @@
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.sourcelink.json
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
+C:\Resource\ProjectNet\AutoHub\src\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\Resource\ProjectNet\AutoHub\src\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Resource\ProjectNet\AutoHub\src\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Resource\ProjectNet\AutoHub\src\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Resource\ProjectNet\AutoHub\src\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Resource\ProjectNet\AutoHub\src\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Resource\ProjectNet\AutoHub\src\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Resource\ProjectNet\AutoHub\src\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Resource\ProjectNet\AutoHub\src\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\Resource\ProjectNet\AutoHub\src\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\Resource\ProjectNet\AutoHub\src\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\Resource\ProjectNet\AutoHub\src\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll

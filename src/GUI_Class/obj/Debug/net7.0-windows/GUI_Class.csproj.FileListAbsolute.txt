@@ -1,0 +1,529 @@
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.exe
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.deps.json
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.runtimeconfig.json
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\BussinessLogicLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\DataAccessLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\BussinessLogicLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\DataAccessLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.AssemblyReference.cache
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.GenerateResource.cache
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.AssemblyInfoInputs.cache
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.AssemblyInfo.cs
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.CoreCompileInputs.cache
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.CopyComplete
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\refint\GUI_Class.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.genruntimeconfig.cache
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\ref\GUI_Class.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.MAIN_UI.resources
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.Properties.Resources.resources
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Car_models.resources
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Customers.resources
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Manufacturers.resources
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.SalesPerson.resources
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Statistics.resources
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Transactions.resources
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.Login.resources
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.exe
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.deps.json
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.runtimeconfig.json
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.pdb
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\BussinessLogicLayer.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\DataAccessLayer.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\BussinessLogicLayer.pdb
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\DataAccessLayer.pdb
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.AssemblyReference.cache
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Car_models.resources
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Customers.resources
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Manufacturers.resources
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.SalesPerson.resources
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Statistics.resources
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Transactions.resources
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.Login.resources
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.MAIN_UI.resources
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.Properties.Resources.resources
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.GenerateResource.cache
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.AssemblyInfoInputs.cache
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.AssemblyInfo.cs
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.CoreCompileInputs.cache
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.CopyComplete
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\refint\GUI_Class.dll
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.pdb
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.genruntimeconfig.cache
+D:\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\ref\GUI_Class.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.exe
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.deps.json
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.runtimeconfig.json
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\BussinessLogicLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\DataAccessLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\BussinessLogicLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\DataAccessLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.AssemblyReference.cache
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Car_models.resources
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Customers.resources
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Manufacturers.resources
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.SalesPerson.resources
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Statistics.resources
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Transactions.resources
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.Login.resources
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.MAIN_UI.resources
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.Properties.Resources.resources
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.GenerateResource.cache
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.AssemblyInfoInputs.cache
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.AssemblyInfo.cs
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.CoreCompileInputs.cache
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.CopyComplete
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\refint\GUI_Class.dll
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.genruntimeconfig.cache
+C:\Users\HuyKhang\OneDrive\Desktop\Hoc Tap\CongNgheDotNet\src\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\ref\GUI_Class.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.exe
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.deps.json
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.runtimeconfig.json
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.pdb
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\BussinessLogicLayer.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\DataAccessLayer.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\BussinessLogicLayer.pdb
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\DataAccessLayer.pdb
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.AssemblyReference.cache
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Car_models.resources
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Customers.resources
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Manufacturers.resources
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.SalesPerson.resources
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Statistics.resources
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Transactions.resources
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.Login.resources
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.MAIN_UI.resources
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.Properties.Resources.resources
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.GenerateResource.cache
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.AssemblyInfoInputs.cache
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.AssemblyInfo.cs
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.CoreCompileInputs.cache
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.sourcelink.json
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.CopyComplete
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\refint\GUI_Class.dll
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.pdb
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.genruntimeconfig.cache
+D:\dl\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\ref\GUI_Class.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.exe
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.deps.json
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.runtimeconfig.json
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\BussinessLogicLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\DataAccessLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\BussinessLogicLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\DataAccessLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.AssemblyReference.cache
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Car_models.resources
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Customers.resources
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Manufacturers.resources
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.SalesPerson.resources
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Statistics.resources
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Transactions.resources
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.Login.resources
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.MAIN_UI.resources
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.Properties.Resources.resources
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.GenerateResource.cache
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.AssemblyInfoInputs.cache
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.AssemblyInfo.cs
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.CoreCompileInputs.cache
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.CopyComplete
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\refint\GUI_Class.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.genruntimeconfig.cache
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\ref\GUI_Class.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.AssemblyReference.cache
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Car_models.resources
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Customers.resources
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Manufacturers.resources
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.SalesPerson.resources
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Statistics.resources
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Transactions.resources
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.Login.resources
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.MAIN_UI.resources
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.Properties.Resources.resources
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.GenerateResource.cache
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.AssemblyInfoInputs.cache
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.AssemblyInfo.cs
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.CoreCompileInputs.cache
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\refint\GUI_Class.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.exe
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.deps.json
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.runtimeconfig.json
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\BussinessLogicLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\DataAccessLayer.dll
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\BussinessLogicLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\DataAccessLayer.pdb
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.CopyComplete
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.genruntimeconfig.cache
+C:\Users\HuyKhang\OneDrive\Desktop\ProjectNet\ProjectCNDN_Revamp\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\ref\GUI_Class.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.exe
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.deps.json
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.runtimeconfig.json
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.pdb
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\BussinessLogicLayer.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\DataAccessLayer.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\BussinessLogicLayer.pdb
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\bin\Debug\net7.0-windows\DataAccessLayer.pdb
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.AssemblyReference.cache
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Car_models.resources
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Customers.resources
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Manufacturers.resources
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.SalesPerson.resources
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Statistics.resources
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Transactions.resources
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.Login.resources
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.MAIN_UI.resources
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.Properties.Resources.resources
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.GenerateResource.cache
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.AssemblyInfoInputs.cache
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.AssemblyInfo.cs
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.CoreCompileInputs.cache
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.Up2Date
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\refint\GUI_Class.dll
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.pdb
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.genruntimeconfig.cache
+C:\Resource\ProjectNet\AutoHub\PROJECTCNDN\GUI_Class\obj\Debug\net7.0-windows\ref\GUI_Class.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.exe
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.deps.json
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.runtimeconfig.json
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\GUI_Class.pdb
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\BussinessLogicLayer.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\DataAccessLayer.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\BussinessLogicLayer.pdb
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\bin\Debug\net7.0-windows\DataAccessLayer.pdb
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.AssemblyReference.cache
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Car_models.resources
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Customers.resources
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Manufacturers.resources
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.SalesPerson.resources
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Statistics.resources
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.ChildForm.Transactions.resources
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.Login.resources
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.MAIN_UI.resources
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.Properties.Resources.resources
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.GenerateResource.cache
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.AssemblyInfoInputs.cache
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.AssemblyInfo.cs
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.CoreCompileInputs.cache
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.csproj.Up2Date
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\obj\Debug\net7.0-windows\refint\GUI_Class.dll
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.pdb
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\obj\Debug\net7.0-windows\GUI_Class.genruntimeconfig.cache
+C:\Resource\ProjectNet\AutoHub\src\GUI_Class\obj\Debug\net7.0-windows\ref\GUI_Class.dll
